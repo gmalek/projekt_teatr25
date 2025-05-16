@@ -7,3 +7,5 @@ def dodaj():
 
 
 a = 10
+
+b_testowa = 1000
