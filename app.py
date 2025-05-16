@@ -4,3 +4,6 @@ def pokaz():
 
 def dodaj():
     pass
+
+
+a = 10
